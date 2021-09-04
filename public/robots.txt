@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://iamnaveenoff.in/sitemap.xml
+Host: https://iamnaveenoff.in
