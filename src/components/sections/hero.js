@@ -60,22 +60,18 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Naveen Kumar.</h2>;
-  const three = <h3 className="big-heading">I build things for the web / Mobile App / Design.</h3>;
+  const three = <h3 className="big-heading">I build things for the Web.</h3>;
   const four = (
     <>
       <p>
-         I’m a software engineer specializing in building (and occasionally designing) exceptional
+        I’m a software engineer specializing in building (and occasionally designing) exceptional
         digital experiences. Currently, I’m focused on building Customer Centric Appication and
         Mobile Apps .
       </p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="tel:+917904222615"
-      target="_blank"
-      rel="noreferrer">
+    <a className="email-link" href="tel:+917904222615" target="_blank" rel="noreferrer">
       Hire Me!
     </a>
   );
