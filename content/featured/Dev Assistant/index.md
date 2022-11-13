@@ -4,6 +4,7 @@ title: 'Dev Assistant (VS Code Extension)'
 cover: './DevAssistant.png'
 github: 'https://github.com/iamnaveenoff/vscode-extension'
 external: 'https://marketplace.visualstudio.com/items?itemName=iamnaveenoff.dev-assistant'
+cta: 'https://marketplace.visualstudio.com/items?itemName=iamnaveenoff.dev-assistant'
 tech:
   - VS Code
   - Programmer Util
